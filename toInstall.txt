@@ -1,0 +1,7 @@
+treba nodejs prvo
+
+--:npm install express socket.io moment
+--:npm install -D nodemon
+
+za pokrenuti:
+--:npm run dev
